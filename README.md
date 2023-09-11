@@ -8,15 +8,15 @@ Federated Semi-supervised with FAIR Principle-based Partial Client Annotation".
 
 ### Main Developers
 
-* [Dr. Zhenwei Shi](https://github.com/zhenweishi) ^1, 2^
-* MSc. Dan Wang ^2, 3^
-* [Dr. Chu Han](https://chuhan89.com/) ^1, 2^
-* MD. Changhong Liang ^1, 2^
-* MD. Zaiyi Liu ^1, 2^
+- [Dr. Zhenwei Shi](https://github.com/zhenweishi) <sup/>1, 2
+- MSc. Dan Wang <sup/>2, 3
+- [Dr. Chu Han](https://chuhan89.com/) <sup/>1, 2
+- MD. Changhong Liang <sup/>1, 2
+- MD. Zaiyi Liu <sup/>1, 2
 
-^1^ Department of Radiology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, China
-^2^ Guangdong Provincial Key Laboratory of Artificial Intelligence in Medical Image Analysis and Application, China
-^3^ School of Computers, Guangdong University of Technology, Guangzhou 510006, P. R. China
+<sup>1</sup> Department of Radiology, Guangdong Provincial People's Hospital (Guangdong Academy of Medical Sciences), Southern Medical University, China <br/>
+<sup>2</sup> Guangdong Provincial Key Laboratory of Artificial Intelligence in Medical Image Analysis and Application, China <br/>
+<sup>3</sup> School of Computers, Guangdong University of Technology, Guangzhou 510006, P. R. China <br/>
 
 ### License
 
