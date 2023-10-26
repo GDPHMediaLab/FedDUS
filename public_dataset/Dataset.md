@@ -1,5 +1,5 @@
 # Dataset
-The public dataset used in the paper of FedSPCA is available at the link below
+The public dataset used in the paper of FedSPCA is also available at the link below
 ## RIDER
 https://wiki.cancerimagingarchive.net/display/Public/RIDER+Lung+CT
 ## INTEROBS
