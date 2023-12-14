@@ -4,7 +4,7 @@
 # FedDUS:
 
 For the paper "ung Tumor Segmentation on CT Images Through Federated
-Semi-supervised with dynamic update strategy".
+Semi-supervised with Dynamic Update Strategy".
 
 ### Main Developers
 
