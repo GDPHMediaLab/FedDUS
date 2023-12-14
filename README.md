@@ -1,10 +1,10 @@
 
 [![](https://user-images.githubusercontent.com/17007301/219617294-a5f38b07-4599-4834-aa7c-96d01299a531.png)](https://user-images.githubusercontent.com/17007301/219617294-a5f38b07-4599-4834-aa7c-96d01299a531.png)
 
-# FedSPCA
+# FedDUS:
 
-For the paper "FedSPCA: Lung Tumor Segmentation on CT Images Through
-Federated Semi-supervised with FAIR Principle-based Partial Client Annotation".
+For the paper "ung Tumor Segmentation on CT Images Through Federated
+Semi-supervised with dynamic update strategy".
 
 ### Main Developers
 
